@@ -132,13 +132,12 @@ Typische offene Ports auf Metasploitable2:
 ## 📸 Screenshots
 
 
-```md
 ![VirtualBox](screenshots/virtualbox_overview.png)
 ![Kali IP](screenshots/kali_ip.png)
 ![Metasploitable IP](screenshots/metasploitable_ip.png)
 ![Ping](screenshots/ping_test.png)
 ![Nmap](screenshots/nmap_scan.png)
-```
+
 
 ---
 
