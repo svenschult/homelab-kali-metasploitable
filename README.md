@@ -133,10 +133,15 @@ Typische offene Ports auf Metasploitable2:
 
 
 ![VirtualBox](screenshots/virtualbox_overview.png)
+Übersicht der VM
 ![Kali IP](screenshots/kali_ip.png)
+Abrufen der Kali IP
 ![Metasploitable IP](screenshots/metasploitable_ip.png)
+Abrufen der Metasploitable IP
 ![Ping](screenshots/ping_test1.png)
+Ping Test an Metasploitable
 ![Nmap](screenshots/nmap_scan.png)
+Scan vom Metasploitable System
 
 
 ---
